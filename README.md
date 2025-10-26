@@ -1,16 +1,26 @@
-## Hi there 👋
+# Portfolio Hub
+## Hey there, I'm Zane 👋
 
-<!--
-**ZaneCotten/ZaneCotten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build with **C#/.NET** and **SQL**, currently working on **Kanso One** (ops/invoicing) and learning.
 
-Here are some ideas to get you started:
+### Hubs
+- [**C# Learning Hub**](https://github.com/ZaneCotten/csharp-learning)
+- [**SQL Learning Hub**](https://github.com/ZaneCotten/sql-learning)
+- [**C++ (future)**]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects (_SOON_)
+- **Kanso One (MVP)** — C#/.NET + SQL invoicing/ops  
+  Web/API: https: • Docs: _Soon_
+- **Clean Code Refactors** — before/after katas in C#  
+  https://github.com/ZaneCotten/clean-code-refactors
+
+### SQL Highlight
+- SQLBolt → notes & solutions: https://github.com/ZaneCotten/sql-learning/tree/main/sqlbolt
+
+### What I use
+C#, .NET, ASP.NET Core, SQL (Postgres/SQLite), Git/GitHub
+
+### Contact
+- Email: zwc.cotten@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/zane-cotten-b28a72382/)
+- [GitHub Profile](https://github.com/ZaneCotten)
