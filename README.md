@@ -6,8 +6,7 @@ I like to be constantly learning. Right now it's **C#**, **SQL**, and **ASP.NET 
 ### Hubs
 - [**C# Learning Hub**](https://github.com/ZaneCotten/csharp-learning)
 - [**SQL Learning Hub**](https://github.com/ZaneCotten/sql-learning)
-- [**ASP.NET Core**](https://github.com/ZaneCotten/aspnetcore-learning-hub)
-- **More Coming Soon**
+- [**ASP.NET Core (SOON)**](https://github.com/ZaneCotten/aspnetcore-learning-hub)
 
 ### What I use
 C#, .NET, ASP.NET Core, SQL (Postgres/SQLite), Git/GitHub
