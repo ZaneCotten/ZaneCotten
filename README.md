@@ -1,15 +1,14 @@
 # Portfolio Hub
 ## Hey there, I'm Zane 👋
 
-I like to be constantly learning. Right now it's **C#**, **SQL**, and **ASP.NET Core**.
+I like to be constantly learning. Right now it's **C#**, **SQL**, and **Java**.
 
 ### Hubs
 - [**C# Learning Hub**](https://github.com/ZaneCotten/csharp-learning)
 - [**SQL Learning Hub**](https://github.com/ZaneCotten/sql-learning)
-- [**ASP.NET Core (SOON)**](https://github.com/ZaneCotten/aspnetcore-learning-hub)
 
 ### What I use
-C#, .NET, ASP.NET Core, SQL (Postgres/SQLite), Git/GitHub
+C#, Java, SQL (Postgres/SQLite), Git/GitHub
 
 ### Contact
 - Email: jobs@zanecotten.dev
