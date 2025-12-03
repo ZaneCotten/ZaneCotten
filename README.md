@@ -1,7 +1,8 @@
 # Portfolio Hub
 ## Hey there, I'm Zane 👋
 
-I like to be constantly learning. Right now it's **C#**, **SQL**, and **Java**.
+I like to be constantly learning. Right now it's **Java**, **HTML**, and **CSS**.
+I am currently studying at Western Governor's University!
 
 ### Hubs
 - [**C# Learning Hub**](https://github.com/ZaneCotten/csharp-learning)
