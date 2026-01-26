@@ -5,13 +5,13 @@ I’m a WGU student building practical projects while leveling up my web + softw
 Right now I’m working primarily with **Java** and **Angular**, plus the core web stack (**HTML/CSS/JavaScript**).
 
 ### 🔧 Current focus
-- Building small, complete apps (not just snippets)
-- Getting comfortable with Angular patterns, components, and HTTP/API work
-- Strengthening Java fundamentals through real projects
+- Graduating
+- Getting comfortable with Angular/Spring patterns, components, and HTTP/API work
+- Strengthening Java fundamentals through real projects at WGU
 
 ### 🧰 Tech I use
-- **Frontend:** Angular, JavaScript, HTML, CSS  
-- **Backend:** Java  
+- **Frontend:** Angular, JavaScript, HTML, CSS
+- **Backend:** Java, C#, Spring
 - **Tools:** Git, GitHub
 
 ### 📌 Projects
