@@ -92,7 +92,7 @@ Backend-leaning software engineer building practical web applications with **Jav
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/zane-cotten-b28a72382/
+- LinkedIn: https://www.linkedin.com/in/zane-cotten/
 - Email: zane@zanecotten.dev
 
 ---
