@@ -98,7 +98,4 @@ Backend-leaning software engineer building practical web applications with **Jav
 ---
 
 ## Notes for reviewers
-If you’re evaluating my work and want access to the private repositories, I can provide:
-- a guided walkthrough (screen share),
-- temporary collaborator access to a private repo, or
-- a sanitized code sample focusing on architecture and implementation choices.
+If you’re evaluating my work and want access to the private repositories, I can provide temporary collaborator access to a private repo
